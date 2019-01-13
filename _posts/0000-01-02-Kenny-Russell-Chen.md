@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the second slide!"
 ---
-Feels like the right thing to do on Sunday night! 
+Lil dicky not my favourate rapper hahahah
 Use the left arrow to go back! 
